@@ -1,0 +1,4 @@
+File Key,Condition,RPM,Detected Freq (Hz),Correlation,Nearest Zero,Critical
+normal_1797,normal,1797,160.5,0.32,14.1347,No
+ir_007_1797,inner_race,1797,160.2,0.84,14.1347,Yes
+ir_014_1797,inner_race,1797,160.3,0.83,14.1347,Yes
